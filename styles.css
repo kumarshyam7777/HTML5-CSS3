@@ -1,0 +1,18 @@
+h2 {
+  color: cornflowerblue;
+}
+.random h2 {
+  color: green;
+}
+
+.list + ul {
+  list-style: none;
+}
+
+* {
+  font-style: italic;
+}
+
+ul > li {
+  color: darkcyan;
+}
